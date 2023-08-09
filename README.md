@@ -1,8 +1,9 @@
-# React + Vite
+# Repaso de React CounterApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ejercicio de aprendizaje
 
-Currently, two official plugins are available:
+- Componentes
+- PropTypes
+- -UseState
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![localhost_5173_ (1)](https://github.com/ruben-suarez1/Repaso-CounterApp/assets/84733911/cc6f9afb-d155-4b95-ad60-2989dcb84f0f)

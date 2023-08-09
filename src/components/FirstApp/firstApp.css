@@ -1,0 +1,19 @@
+.component {
+    width: 300px;
+    margin: 20px auto;
+    background-color: #457b9d;
+    padding: 5px;
+    border: 1px solid #a8dadc;
+}
+
+.subcomponent {
+    background: #1d3557;
+    padding: 0.5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.parrafo {
+    color: #fff;
+    margin: 5px 5px;
+}

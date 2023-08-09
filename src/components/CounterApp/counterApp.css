@@ -1,0 +1,31 @@
+.buttonCounter {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.counter {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin: 5px 0;
+}
+
+.parrafo {
+    text-align: center;
+}
+
+.parrafo:nth-child(2) {
+    font-size: 30px;
+    margin: 15px auto;
+}
+
+.subcomponent {
+     margin: 10px auto;
+}
+
+.buttonReset {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
